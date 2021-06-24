@@ -1,0 +1,12 @@
+
+C:\Users\ankit\PycharmProjects\cybersecurity\venv\Scripts\python.exe C:/Users/ankit/PycharmProjects/cybersecurity/final_project.py
+enter your current location mumbai
+   ********************************************************
+   >  weather report for MUMBAI on 25 Jun 21 | 01:26:55 AM  <
+   ********************************************************
+   -->current temperature : 27.99 Deg c
+   -->weather description : haze
+   -->current humidity    : 89 %
+   -->current wind speed  : 3.09 kmph
+
+Process finished with exit code 0
